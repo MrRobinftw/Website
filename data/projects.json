@@ -1,16 +1,18 @@
 [
   {
-    "title": "Overgrown",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tristique pretium arcu eget fermentum.",
-    "link": "https://www.google.com/",
-    "image": "https://raw.githubusercontent.com/MrRobinftw/Website/main/images/pexels-james-lee-2549944.jpg",
-    "date": "2019-01-22"
+    "Category": "Game",
+    "Date": "2019-01-22",
+    "Title": "Overgrown",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tristique pretium arcu eget fermentum.",
+    "Link": "https://www.google.com/",
+    "Image": "https://raw.githubusercontent.com/MrRobinftw/Website/main/images/pexels-james-lee-2549944.jpg"
   },
   {
-    "title": "Wrath Hunter",
-    "description": "Mauris placerat tellus vitae varius tristique. In hac habitasse platea dictumst. Ut pharetra elementum molestie.",
-    "link": "https://www.youtube.com/",
-    "image": "https://raw.githubusercontent.com/MrRobinftw/Website/main/images/pexels-kafeel-ahmed-5591254.jpg",
-    "date": "2021-06-05"
+    "Category": "Game",
+    "Date": "2021-06-05",
+    "Title": "Wrath Hunter",
+    "Description": "Mauris placerat tellus vitae varius tristique. In hac habitasse platea dictumst. Ut pharetra elementum molestie.",
+    "Link": "https://www.youtube.com/",
+    "Image": "https://raw.githubusercontent.com/MrRobinftw/Website/main/images/pexels-kafeel-ahmed-5591254.jpg"
   }
 ]
